@@ -130,7 +130,3 @@ You are a language detector and translator. Detect the language of the following
 ```
 
 You can customize this with `/translate config prompt` to change how the AI responds.
-
-## License
-
-MIT
