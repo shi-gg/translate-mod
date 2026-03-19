@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+run/
+out/
+bin/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.vscode/
+.classpath
+.project
+
+# Logs and Crash Reports
+logs/
+crash-reports/
+hs_err_pid*
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Other
+mcmodsrepo/
